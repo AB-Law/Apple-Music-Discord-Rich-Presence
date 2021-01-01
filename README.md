@@ -165,13 +165,13 @@ Project Link: [https://github.com/AB-Law/Apple-Discord-Rich-Presence](https://gi
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/AB-Law/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/AB-Law/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/AB-Law/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/AB-Law/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/AB-Law/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/AB-Law/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AB-Law/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/AB-Law/repo/issues
-[license-shield]: https://img.shields.io/github/license/AB-Law/repo.svg?style=for-the-badge
-[license-url]: https://github.com/AB-Law/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/AB-Law/Apple-Discord-Rich-Presence.svg?style=for-the-badge
+[contributors-url]: https://github.com/AB-Law/Apple-Discord-Rich-Presence/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/AB-Law/Apple-Discord-Rich-Presence.svg?style=for-the-badge
+[forks-url]: https://github.com/AB-Law/Apple-Discord-Rich-Presence/network/members
+[stars-shield]: https://img.shields.io/github/stars/AB-Law/Apple-Discord-Rich-Presence.svg?style=for-the-badge
+[stars-url]: https://github.com/AB-Law/Apple-Discord-Rich-Presence/stargazers
+[issues-shield]: https://img.shields.io/github/issues/AB-Law/Apple-Discord-Rich-Presence.svg?style=for-the-badge
+[issues-url]: https://github.com/AB-Law/Apple-Discord-Rich-Presence/issues
+[license-shield]: https://img.shields.io/github/license/AB-Law/Apple-Discord-Rich-Presence.svg?style=for-the-badge
+[license-url]: https://github.com/AB-Law/Apple-Discord-Rich-Presence/blob/master/LICENSE.txt
