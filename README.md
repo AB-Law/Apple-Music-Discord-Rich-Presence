@@ -157,7 +157,7 @@ Project Link: [https://github.com/AB-Law/Apple-Discord-Rich-Presence](https://gi
 ## Acknowledgements
 
 - [NextFire](https://github.com/NextFire/apple-music-discord-rpc)
-- [Best-README-Template] (https://github.com/othneildrew/Best-README-Template)
+- [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
