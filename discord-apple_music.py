@@ -1,5 +1,5 @@
-#Credits to NextFire (https://github.com/NextFire) whose code helped me 
-#with exporting data from the Music App.
+# Credits to NextFire (https://github.com/NextFire) whose code helped me
+# with exporting data from the Music App.
 
 from pypresence import Presence
 import time
@@ -8,7 +8,7 @@ import applescript
 import subprocess
 import random
 
-c_id = "794212978135269388" #if you create your own Discord app, change this
+c_id = "794212978135269388"  # if you create your own Discord app, change this
 RPC = Presence(c_id)
 
 red_icon = "red_appicon"
@@ -18,11 +18,11 @@ itunes_icon = "itunes_appicon"
 celestial_icon = "celestial_icon"
 ll_icon = "ll_icon"
 relay_icon = "ll_icon"
-snap_icon = "snap_icon"
 vice_icon = "vice_icon"
 multi_icon = "multi_appicon"
 
-icons = [red_icon, black_icon, white_icon, itunes_icon, celestial_icon, ll_icon, relay_icon, snap_icon, vice_icon, multi_icon]
+icons = [red_icon, black_icon, white_icon, itunes_icon, celestial_icon,
+         ll_icon, relay_icon, vice_icon, multi_icon]
 
 
 def icon():
@@ -31,12 +31,14 @@ def icon():
 
 desc = "Apple Music Presence created by A Law#7777"
 
+
 def running(app):
     count = int(subprocess.check_output(["osascript",
                                          "-e", "tell application \"System Events\"",
                                          "-e", "count (every process whose name is \"" + app + "\")",
                                          "-e", "end tell"]).strip())
     return count > 0
+
 
 def state():
     return applescript.tell.app("Music", "player state as string").out
@@ -94,4 +96,3 @@ if(running("Music")):
         else:
             stopped()
         time.sleep(5)
-
