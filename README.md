@@ -34,7 +34,7 @@
   <h3 align="center">Discord Apple Music Rich Presence Client</h3>
 
   <p align="center">
-    project_description
+    I made this so as to show what music I was playing on Discord. Spotify has an in-built integration with Discord, so I wanted to build a somewhat similar integration, at least one in which you could see what I was listening to at the time.
     <br />
     <a href="https://github.com/AB-Law/Apple-Discord-Rich-Presence"><strong>Explore the docs »</strong></a>
     <br />
