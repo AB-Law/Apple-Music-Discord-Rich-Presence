@@ -148,7 +148,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Akshay B - [@Akshay_Law](https://twitter.com/Akshay_Law) - akshay.law35@gmail.com
+Akshay B - akshay.law35@gmail.com
 Discord - A Law#7777
 Project Link: [https://github.com/AB-Law/Apple-Discord-Rich-Presence](https://github.com/AB-Law/Apple-Discord-Rich-Presence)
 
