@@ -31,7 +31,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Discord Apple Music Rich Presence Client</h3>
+  <h3 align="center">Discord Rich Presence Client for Apple Music</h3>
 
   <p align="center">
     I made this so as to show what music I was playing on Discord. Spotify has an in-built integration with Discord, so I wanted to build a somewhat similar integration, at least one in which you could see what I was listening to at the time.
