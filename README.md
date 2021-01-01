@@ -81,9 +81,6 @@
 
 I made this so as to show what music I was playing on Discord. Spotify has an in-built integration with Discord, so I wanted to build a somewhat similar integration, at least one in which you could see what I was listening to at the time.
 
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`AB-Law`, `Apple-Discord-Rich-Presence`, `Akshay_Law`, `akshay.law35@gmail.com`, `Discord Apple Music Rich Presence Client`, `project_description`
-
 ### Built With
 
 - [Python](https://www.python.org)
