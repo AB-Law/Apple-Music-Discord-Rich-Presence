@@ -81,6 +81,8 @@
 
 I made this so as to show what music I was playing on Discord. Spotify has an in-built integration with Discord, so I wanted to build a somewhat similar integration, at least one in which you could see what I was listening to at the time.
 
+Multiple icon support (changes icons mid song)
+
 ### Built With
 
 - [Python](https://www.python.org)
