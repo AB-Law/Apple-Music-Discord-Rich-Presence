@@ -29,7 +29,7 @@ def icon():
     return random.choice(icons)
 
 
-desc = "Apple Music Presence created by A Law#7777"
+desc = "Apple Music Presence created by Shay#6009"
 
 
 def running(app):
