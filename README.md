@@ -52,7 +52,8 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#
+               -the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -77,7 +78,6 @@
 
 ## About The Project
 
-![Product Name Screen Shot][product-screenshot]
 
 I made this so as to show what music I was playing on Discord. Spotify has an in-built integration with Discord, so I wanted to build a somewhat similar integration, at least one in which you could see what I was listening to at the time.
 
@@ -180,4 +180,3 @@ Project Link: [https://github.com/AB-Law/Apple-Discord-Rich-Presence](https://gi
 [issues-url]: https://github.com/AB-Law/Apple-Discord-Rich-Presence/issues
 [license-shield]: https://img.shields.io/github/license/AB-Law/Apple-Discord-Rich-Presence.svg?style=for-the-badge
 [license-url]: https://github.com/AB-Law/Apple-Discord-Rich-Presence/blob/master/LICENSE.txt
-[product-screenshot]: https://media.discordapp.net/attachments/789375366296633394/794456938565992448/law.png?width=1550&height=969
